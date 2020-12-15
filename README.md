@@ -6,7 +6,7 @@ Skills: I am an old school web developer by trade. I started learning when CSS w
 
 - 🔭 I’m currently working on Building the second generation of the [Shadows ReadyTheme](https://github.com/mivaecommerce/readytheme-shadows) 
 - 💬 Ask me about freelance site builds as well as discussion on Miva Merchant site development [inFLUX Web Design](https://www.influxwebdesign.com) 
-- 📫 How to reach me:  [dev4web](https://www.dev4web.com) 
+- 📫 How to reach me:  [dev4web](https://www.dev4web.net) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/influxweb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/inFLUX.Web.Design)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/influx/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/inFLUX.Web.Design)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/influxweb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/influxweb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.influxwebdesign.com/)  
