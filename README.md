@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Matt!
-#### Holistic Web Developer • Director of UI/UX
+#### Holistic Web Developer • Front-End Development Director
 With a long-time passion for computers, I began designing web site in 1995. In 2005, I launched a freelance company, inFLUX Web Design. In 2008, I joined Miva and have progressed to Director of UI/UX.
 
 Skills: I am an old school web developer by trade. I started learning when CSS was "the new thing". Refining my trade over the years, my key focus points are Accessibility, CSS, HTML, JavaScript, and Miva Merchant.
