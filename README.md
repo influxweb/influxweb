@@ -2,8 +2,8 @@
 
 [![](https://img.shields.io/badge/-@influxweb-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/influxweb)
 [![](https://img.shields.io/badge/-@influxweb-%23181717?style=flat-square&logo=github)](https://github.com/influxweb)
-[![](https://img.shields.io/freelance?color=0ab9e6&style=flat-square&up_message=www.alchemywebdev.com&url=https%3A%2F%2Fwww.alchemywebdev.com)](https://www.alchemywebdev.com)
-[![](https://img.shields.io/personal?color=0ab9e6&style=flat-square&up_message=www.dev4web.net&url=https%3A%2F%2Fwww.dev4web.net)](https://www.dev4web.net)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=www.alchemywebdev.com&url=https%3A%2F%2Fwww.alchemywebdev.com)](https://www.alchemywebdev.com)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=www.dev4web.net&url=https%3A%2F%2Fwww.dev4web.net)](https://www.dev4web.net)
 
 #### Holistic Web Developer
 With a long-time passion for computers, I began developing websites in 1995. In 2005, I launched a freelance web development company as a way to provide an avenue of service to those that needed a web presence. In 2008, I joined Miva and progressed to become the Product Front-End Development Director where I was in charge of creating and maintaining UX standards and the underlying frameworks.
